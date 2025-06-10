@@ -1,2 +1,2 @@
 # caring-inscripciones
-.
+index.html
